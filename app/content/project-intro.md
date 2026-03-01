@@ -109,4 +109,15 @@ The pipeline is fully automated via **Google Cloud Scheduler**:
 
 ---
 
+![GitHub](/github-mark.svg)
+
+## Source Code
+
+| Repository | Description |
+|------------|-------------|
+| [AI-podcast-frontend](https://github.com/PomyeoLee/AI-podcast-frontend) | Next.js 15 web app — episode listing, audio player, dark/light theme |
+| [AI-podcast-backend](https://github.com/PomyeoLee/AI-podcast-backend) | Python FastAPI service — pipeline, LLM generation, TTS, GCS |
+
+---
+
 *Interested in my other projects? Visit my [personal homepage](https://pengyaoli-portfolio-service-202278901138.us-central1.run.app).*

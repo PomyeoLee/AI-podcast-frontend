@@ -169,6 +169,20 @@
   margin-bottom: 1rem;
 }
 
+/* GitHub logo icon */
+.markdown-content img[alt="GitHub"] {
+  width: 36px;
+  height: 36px;
+  border-radius: 0;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.dark .markdown-content img[alt="GitHub"] {
+  filter: invert(1);
+}
+
 /* Strong and emphasis */
 .markdown-content strong {
   font-weight: 700;
